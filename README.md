@@ -1,18 +1,18 @@
-# 🎯 Skill Radar
+**You VS Role**
 
 **AI-powered resume-to-job matching that reveals your true potential**
 
 Skill Radar analyzes how well your resume matches a job description and gives you detailed insights into your strengths, gaps, and hidden potential. No more wondering if you're "qualified enough" — let AI tell you exactly where you stand.
 
-## ✨ What It Does
+## What It Does
 
 Upload a job description and your resume (as a PDF), and Skill Radar will:
-- 🎲 **Calculate your match score** — See at a glance how well you fit the role
-- 📊 **Build your skill radar** — Visualize required skills vs. your current level
-- ⚠️ **Identify critical gaps** — Know exactly what you're missing
-- 💪 **Highlight your strengths** — Discover what makes you valuable
-- 🔍 **Uncover hidden talents** — Find skills you didn't realize you had
-- 🚨 **Flag inconsistencies** — Catch resume red flags before an interview
+-  **Calculate your match score** — See at a glance how well you fit the role
+-  **Build your skill radar** — Visualize required skills vs. your current level
+-  **Identify critical gaps** — Know exactly what you're missing
+-  **Highlight your strengths** — Discover what makes you valuable
+-  **Uncover hidden talents** — Find skills you didn't realize you had
+-  **Flag inconsistencies** — Catch resume red flags before an interview
 
 ## 🚀 Quick Start
 
@@ -62,7 +62,7 @@ The app will open at `http://localhost:5173`
 - Recharts for beautiful visualizations
 - Lucide icons for clean UI
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -108,25 +108,3 @@ GEMINI_API_KEY=your_api_key_here
 MONGODB_URI=mongodb://localhost:27017/skill_radar
 PORT=5000
 ```
-
-## 🤝 Contributing
-
-Found a bug? Have a feature idea? We'd love your input!
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the ISC License.
-
-## 🙋 Support
-
-Have questions? Check our [GitHub issues](https://github.com/harsh99887766/You-VS-Role/issues) or feel free to reach out!
-
----
-
-**Pro Tip:** Use Skill Radar before applying for jobs to strategically position your resume and focus your upskilling efforts. 🎯
