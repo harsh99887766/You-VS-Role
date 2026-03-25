@@ -14,7 +14,7 @@ Upload a job description and your resume (as a PDF), and Skill Radar will:
 -  **Uncover hidden talents** — Find skills you didn't realize you had
 -  **Flag inconsistencies** — Catch resume red flags before an interview
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (v16+)
@@ -40,14 +40,14 @@ npm run dev
 
 The app will open at `http://localhost:5173`
 
-## 📋 How to Use
+## How to Use
 
 1. **Enter the job description** — Copy-paste the full JD into the text field
 2. **Upload your resume** — Select your PDF file (currently supports PDF)
 3. **Click analyze** — Let AI work its magic
 4. **Review your results** — Check your match score, skill gaps, and personalized insights
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend:**
 - Express.js (TypeScript)
@@ -78,7 +78,7 @@ The app will open at `http://localhost:5173`
     └── vite.config.ts   # Vite configuration
 ```
 
-## 🎨 Features Explained
+## Features Explained
 
 ### Match Score
 A percentage showing how well your overall experience aligns with the job requirements (0-100).
